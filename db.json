@@ -4,9 +4,7 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "settings": {
-    "menu": [
-      { 
+  "settings": [{
         "id": 1,
         "_data": {
           "sortedMenuItems": [
@@ -23,10 +21,7 @@
                 ]
             }
           ]
-        },
-        "accountId": 123 
-      },
-      { "id": 2, "body": "some comment", "accountId": 1 }
+        }
     ]
   },
   "profile": {
