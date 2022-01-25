@@ -7,6 +7,7 @@
   "settings": {
     "menu": [
       { 
+        "id": 1,
         "_data": {
           "sortedMenuItems": [
             {
@@ -25,7 +26,7 @@
         },
         "accountId": 123 
       },
-      { "id": 2, "body": "some comment", "postId": 1 }
+      { "id": 2, "body": "some comment", "accountId": 1 }
     ]
   },
   "profile": {
