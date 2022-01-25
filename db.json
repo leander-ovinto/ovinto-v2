@@ -12,7 +12,8 @@
 			"title": "Post 3"
 		}
 	],
-	"settings": [{
+	"settings": {
+		"menu":[{
 		"id": 1,
 		"accountId": 123,
 		"_data": {
@@ -26,6 +27,7 @@
 					"id": "ee91539b-398d-4662-8017-bf843bcd410d"
 				}]
 			}]
+		}
 		}
 	}],
 	"profile": {
